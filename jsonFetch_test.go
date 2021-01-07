@@ -1,4 +1,4 @@
-package easy_fetch
+package fetch
 
 import "testing"
 

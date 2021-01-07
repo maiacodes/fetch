@@ -1,3 +1,3 @@
-module github.com/maiacodes/easy-fetch
+module github.com/maiacodes/fetch
 
 go 1.15
